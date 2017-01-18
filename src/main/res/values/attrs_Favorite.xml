@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Favorite">
+
+        <attr name="packageName" format="string"/>
+        <attr name="position" format="integer"/>
+        <attr name="isHotSetView" format="boolean"/>
+
+    </declare-styleable>
+
+</resources>

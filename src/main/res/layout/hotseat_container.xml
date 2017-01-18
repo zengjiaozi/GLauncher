@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/hotsetLayout"
+    android:layout_width="match_parent"
+    android:layout_height="88dp"
+    android:background="@android:color/transparent">
+
+    <LinearLayout
+        android:id="@+id/hotSetContainer"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/iconSize"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="@dimen/hotseat_margin_top"
+        android:orientation="horizontal">
+
+<!--        <com.godinsec.privacy.widget.HotSetView
+            android:id="@+id/hotSet1"
+            style="@style/hotseatTextStyle"
+            hotSet:iconBack="@mipmap/ic_launcher"/>
+
+        <com.godinsec.privacy.widget.HotSetView
+            android:id="@+id/hotSet2"
+            style="@style/hotseatTextStyle"
+            hotSet:iconBack="@mipmap/ic_launcher"/>
+
+        <com.godinsec.privacy.widget.HotSetView
+            android:id="@+id/hotSet3"
+            style="@style/hotseatTextStyle"
+            hotSet:iconBack="@mipmap/ic_launcher"/>-->
+
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.godinsec.privacy.widget.CellLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/dragGridView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:cacheColorHint="@android:color/transparent"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:listSelector="@android:color/transparent"
+        android:verticalSpacing="@dimen/verticalSpacing"
+        android:stretchMode="columnWidth"
+        android:layout_marginTop="@dimen/hotseat_margin_top"
+        android:layout_marginLeft="@dimen/margin_border"
+        android:layout_marginRight="@dimen/margin_border"
+        android:overScrollMode="never"/>
+
+

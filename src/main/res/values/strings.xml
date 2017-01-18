@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PrivacyLauncher</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="uninstall_tip">您要卸载这款应用吗</string>
+    <string name="cancle">取消</string>
+    <string name="confirm">确定</string>
+
+</resources>

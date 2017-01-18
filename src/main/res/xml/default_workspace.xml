@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<favorites
+    xmlns:PrivacyLauncher="http://schemas.android.com/apk/res/com.godinsec.launcher">
+
+<!--    <favorite
+        PrivacyLauncher:packageName="com.godinsec.hotset1"
+        PrivacyLauncher:position="0"
+        PrivacyLauncher:isHotSetView="true"
+        />
+
+    <favorite
+        PrivacyLauncher:packageName="com.godinsec.hotset2"
+        PrivacyLauncher:position="1"
+        PrivacyLauncher:isHotSetView="true"
+        />
+
+    <favorite
+        PrivacyLauncher:packageName="com.godinsec.hotset3"
+        PrivacyLauncher:position="2"
+        PrivacyLauncher:isHotSetView="true"
+        />-->
+
+</favorites>
